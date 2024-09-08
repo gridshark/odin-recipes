@@ -1,0 +1,1 @@
+This project is designed to help me practice my HTML and Git skills. I am making a recipe website that will have a main index page and links to a few recipes.
